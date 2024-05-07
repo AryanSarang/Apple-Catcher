@@ -1,6 +1,6 @@
 import "./style.css";
-import Phaser from "phaser";
-
+// import Phaser from "phaser";
+const Phaser = require("phaser");
 const sizes = {
   width: 500,
   height: 500,
